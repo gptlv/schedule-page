@@ -1,25 +1,25 @@
 {
   "37.03.01 Бакалавриат": {
     "Очная форма": {
-      "ПС1А20 КП": "#",
-      "ПС1А21 ПКЧ": "#",
-      "ПС1А22": "#",
-      "ПС1А23": "#"
+      "ПС1А20 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19iZGVkMTFhNWRlYWQ3YjBhZDMzYjY0OWQzZWNjMDM3NzcxZDU2YWI0ZDAwN2FkNDBiMWFlNTNlN2M1YmFjOTcyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00&color=%23D50000",
+      "ПС1А21 ПКЧ": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y182NTY3YzFhOGFjYzE4N2RjNjgxY2Q2YTYxOGMzNTk2MTcwYzZhZWY5ZWVlNzc2OGY1ZTlkMTU5NzJiZTg2YjRkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23D50000",
+      "ПС1А22": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y181YjQ4ODA1OWU1YmZhNWZmOTg2OWUxYTcxZThhYTMxYjcxMDJiOTQyMWQ0ZGNjYmZhNWM2OWM5OTEyODc4ZTQ1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342&color=%23D50000",
+      "ПС1А23": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y180NWNlMjU1MGU1ZGUyYTFjMTI5YTEzMjk5MDFiNWMwNTFiMDQ1OWQ3OGNmZDQzMmVlMTUwMzk2NWNkM2RlZDIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23A79B8E&color=%23D50000"
     },
     "Очно-заочная форма": {
-      "ПС2А19 КП": "#",
-      "ПС2А20 КП": "#",
-      "ПС2А22/10": "#",
-      "ПС2А23/10": "#",
-      "ПС5А21/09 ПКЧ": "#",
-      "ПС5А22/10": "#",
-      "ПС5А23/10": "#"
+      "ПС2А19 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19iMDU2ZDJmNTRjOWVhNWRlYTMzNDJjYzIyMjMxZDQ1Y2YzMjZmNWE1M2I0NjU5MDViMGJmYmI5Y2MwODU2NGZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457&color=%23D50000",
+      "ПС2А20 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19jYjEyNDA3ZWY0MTgzYTg4MWExZTM2MjA1ZTViMTkyNTQ1ZjkwZTJlOTQ3NmU0MjBlY2M0NWIyM2RhOTI3ZGFmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F4511E&color=%23D50000",
+      "ПС2А22/10": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19hNjdhN2EyMjA3NzNmZGY0NmQ3NWFjZWM3ZTU0YzU5N2I1MDI1YjUxZmUwYjg3MTgyY2Y0ZWNhZjVhMjkyYWU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00&color=%23D50000",
+      "ПС2А23/10": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19hMGIyZGU0YzI2ZWFmZDlmMzc5ZWQwNDM4M2RlZWUzNzMyZDg5MzY3MmZjYzlhMmQ4Y2EzOGUxMTVjYzQxNmUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73&color=%23D50000",
+      "ПС5А21/09 ПКЧ": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y18zOGFjYmM4ZjExN2RjNDQ5ZTU4ODc4YzQ5N2IxMzY2OGI3ODM3ZWViMDEzMjA2MmU0ZjA3OTc0YTg3NzVmNDBhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23B39DDB&color=%23D50000",
+      "ПС5А22/10": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19lZDg5MmZkZjA1YTg3MzIyYmI1Y2NlM2MwMDI2ZDFjMTJmY2M4NzM5MGM2MTcwNzkwYmE4OWQyY2QyYWJhNzQyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342&color=%23D50000",
+      "ПС5А23/10": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19jMDE2MGQ1OWEwMDI0NzYzM2RjYzU5ZjVmYTE1N2RkMjU5MTk3ODQ5ZTU4ZTIxOGQ1YWYwMGQ0ZGQ4NjU1MjIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23A79B8E&color=%23D50000"
     },
     "Заочная форма": {
-      "ПС4А19/09 КП": "#",
-      "ПС4А20/09 КП": "#",
-      "ПС5А19/09 КП": "#",
-      "ПС5А20/09 КП": "#"
+      "ПС4А19/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y180ZjJlNjRmZGE5OGEyZTYzYjEzYjBkNDM5NTQ0NTNkOWZkYWJlZDBlYWNmOTkyODU3NTY1ZjkzYjEyODFkODEzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%233F51B5&color=%23D50000",
+      "ПС4А20/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y18wNTYyZWNjMzNjZjAwMDQ0YmIwN2M4MmE5YjFlYjIwNDNhNDM1ZWI4NjRlZTc0NWY2ZjRiNDRiMGRmZmZkNTcyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285F4&color=%23D50000",
+      "ПС5А19/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y18wODczMjM3ZTJiN2FlODBmYmVhM2IyOGEyNWJkY2JiNjgyOWJlNmM5OWYwNmRlZTBlNjkzNmRiNjA1MTA4MGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%239E69AF&color=%23D50000",
+      "ПС5А20/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19mMDFlYzY2MThhMmMzNGMwZjUwMDk5NjU5NDNmZTVlNDVkOTcxYmYwYWQ4NWM4NWFkYWVkMDBlMDBkYTYwNGZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00&color=%23D50000"
     }
   }
 }

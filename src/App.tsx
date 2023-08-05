@@ -12,7 +12,12 @@ const items = Object.entries(jsonData).map(([category, programs]) => ({
         <Collapse.Panel key={program} header={program}>
           <Space direction="vertical">
             {Object.entries(buttonData).map(([groupName, buttonLink]) => (
-              <Button block type="primary" href={buttonLink} target="_blank">
+              <Button
+                block
+                type="primary"
+                href={buttonLink as string}
+                target="_blank"
+              >
                 {groupName}
               </Button>
             ))}

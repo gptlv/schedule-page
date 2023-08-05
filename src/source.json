@@ -21,5 +21,28 @@
       "ПС5А19/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y18wODczMjM3ZTJiN2FlODBmYmVhM2IyOGEyNWJkY2JiNjgyOWJlNmM5OWYwNmRlZTBlNjkzNmRiNjA1MTA4MGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%239E69AF&color=%23D50000",
       "ПС5А20/09 КП": "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMoscow&showTitle=1&showNav=1&showDate=1&showPrint=0&showCalendars=0&showTz=1&mode=AGENDA&src=Y19mMDFlYzY2MThhMmMzNGMwZjUwMDk5NjU5NDNmZTVlNDVkOTcxYmYwYWQ4NWM4NWFkYWVkMDBlMDBkYTYwNGZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=cnUucnVzc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00&color=%23D50000"
     }
+  },
+  "55.03.01 Магистратура": {
+    "Очная форма": {
+      "МС1А20 КП": "#",
+      "МС1А21 ПКЧ": "#",
+      "МС1А22": "#",
+      "МС1А23": "#"
+    },
+    "Очно-заочная форма": {
+      "МС2А19 КП": "#",
+      "МС2А20 КП": "#",
+      "МС2А22/10": "#",
+      "МС2А23/10": "#",
+      "МС5А21/09 ПКЧ": "#",
+      "МС5А22/10": "#",
+      "МС5А23/10": "#"
+    },
+    "Заочная форма": {
+      "МС4А19/09 КП": "#",
+      "МС4А20/09 КП": "#",
+      "МС5А19/09 КП": "#",
+      "МС5А20/09 КП": "#"
+    }
   }
 }

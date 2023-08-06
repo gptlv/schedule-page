@@ -46,7 +46,7 @@ const App = () => {
       >
         <PageHeader
           avatar={{
-            src: "../logo.png",
+            src: "https://raw.githubusercontent.com/lernya/schedule-page/main/logo.png",
             shape: "square",
             size: "large",
           }}

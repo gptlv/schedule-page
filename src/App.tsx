@@ -1,33 +1,13 @@
-import jsonData from "./source.json";
-import { ConfigProvider, Button, Collapse, Space, Layout } from "antd";
+import { ConfigProvider, Layout } from "antd";
 
-import { PageHeader } from "@ant-design/pro-layout";
+import useData from "./hooks/useData";
+import Header from "./components/Header";
+import Main from "./components/Main";
+import Footer from "./components/Footer";
+import { PRIMARY_COLOR } from "./shared/colors";
+import { Item } from "./shared/types";
 
-const { Content, Footer } = Layout;
-
-const items = Object.entries(jsonData).map(([category, programs]) => ({
-  key: category,
-  header: category,
-  content: (
-    <Collapse accordion>
-      {Object.entries(programs).map(([program, buttonData]) => (
-        <Collapse.Panel key={program} header={program}>
-          <Space wrap>
-            {Object.entries(buttonData).map(([groupName, buttonLink]) => (
-              <Button
-                type="primary"
-                href={buttonLink as string}
-                target="_blank"
-              >
-                {groupName}
-              </Button>
-            ))}
-          </Space>
-        </Collapse.Panel>
-      ))}
-    </Collapse>
-  ),
-}));
+const items: Item[] = useData();
 
 const App = () => {
   return (
@@ -35,7 +15,7 @@ const App = () => {
       theme={{
         token: {
           fontFamily: "Noah",
-          colorPrimary: "#f42a3e",
+          colorPrimary: PRIMARY_COLOR,
         },
       }}
     >
@@ -44,37 +24,9 @@ const App = () => {
           minHeight: "100svh",
         }}
       >
-        <PageHeader
-          avatar={{
-            src: "https://raw.githubusercontent.com/lernya/schedule-page/main/logo.png",
-            shape: "square",
-            size: "large",
-          }}
-          style={{
-            background: "rgba(0, 0, 0, 0.02)",
-            borderBottom: "1px solid #d9d9d9",
-          }}
-          title="Учебное расписание"
-        ></PageHeader>
-
-        <Content style={{ padding: "16px" }}>
-          <Collapse accordion>
-            {items.map((item) => (
-              <Collapse.Panel key={item.key} header={item.header}>
-                {item.content}
-              </Collapse.Panel>
-            ))}
-          </Collapse>
-        </Content>
-        <Footer
-          style={{
-            background: "rgba(0, 0, 0, 0.02)",
-            textAlign: "right",
-            borderTop: "1px solid #d9d9d9",
-          }}
-        >
-          2023
-        </Footer>
+        <Header />
+        <Main items={items} />
+        <Footer />
       </Layout>
     </ConfigProvider>
   );

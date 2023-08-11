@@ -16,6 +16,10 @@ export const useData = () => {
                     type="primary"
                     href={buttonLink as string}
                     target="_blank"
+                    style={{
+                      width: "117px",
+                      padding: "4px 8px",
+                    }}
                   >
                     {groupName}
                   </Button>
@@ -27,7 +31,7 @@ export const useData = () => {
       ),
     })
   );
-  return items; // Add this line to return the processed data
+  return items;
 };
 
 export default useData;

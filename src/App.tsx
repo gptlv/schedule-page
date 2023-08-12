@@ -1,13 +1,9 @@
 import { ConfigProvider, Layout } from "antd";
 
-import useData from "./hooks/useData";
 import Header from "./components/Header";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
 import { PRIMARY_COLOR } from "./shared/colors";
-import { Item } from "./shared/types";
-
-const items: Item[] = useData();
 
 const App = () => {
   return (
@@ -21,11 +17,11 @@ const App = () => {
     >
       <Layout
         style={{
-          minHeight: "100svh",
+          minHeight: "100vh",
         }}
       >
         <Header />
-        <Main items={items} />
+        <Main />
         <Footer />
       </Layout>
     </ConfigProvider>

@@ -1,19 +1,11 @@
-import { Layout, Collapse } from "antd";
-import { Item } from "../shared/types";
+import { Layout } from "antd";
+import OuterAccordion from "./OuterAccordion";
 const { Content } = Layout;
 
-type Props = { items: Item[] };
-
-const Main = ({ items }: Props) => {
+const Main = () => {
   return (
     <Content style={{ padding: "16px" }}>
-      <Collapse accordion>
-        {items.map((item: Item) => (
-          <Collapse.Panel key={item.key} header={item.header}>
-            {item.content}
-          </Collapse.Panel>
-        ))}
-      </Collapse>
+      <OuterAccordion />
     </Content>
   );
 };

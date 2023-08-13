@@ -13,7 +13,8 @@
     "antd": "^5.8.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-headless-accordion": "^1.0.2"
+    "react-headless-accordion": "^1.0.2",
+    "vite-plugin-ssr": "^0.4.135"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

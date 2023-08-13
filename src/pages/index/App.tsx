@@ -1,9 +1,9 @@
 import { ConfigProvider, Layout } from "antd";
 
-import Header from "./components/Header";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
-import { PRIMARY_COLOR } from "./shared/colors";
+import Header from "../../components/Header";
+import Main from "../../components/Main";
+import Footer from "../../components/Footer";
+import { PRIMARY_COLOR } from "../../shared/colors";
 
 const App = () => {
   return (

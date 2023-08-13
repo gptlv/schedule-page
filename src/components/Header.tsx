@@ -1,5 +1,6 @@
 import { Layout } from "antd";
 import { BG_COLOR, BORDER_COLOR } from "../shared/colors";
+import logoUrl from "../assets/logo.png";
 const { Header: AntdHeader } = Layout;
 
 const headerStyle: React.CSSProperties = {
@@ -17,7 +18,7 @@ const Header = () => {
           <span className="logo-image">
             <a href="https://inpsycho.ru/">
               <img
-                src="https://raw.githubusercontent.com/lernya/schedule-page/main/src/assets/logo.png"
+                src={logoUrl} //!change to local
                 alt="logo"
                 draggable={false}
               />

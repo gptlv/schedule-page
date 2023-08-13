@@ -10,9 +10,9 @@ html {
 @font-face {
   font-family: "Noah";
   src: local("Noah Regular"), local("Noah-Regular"),
-    url("./assets/fonts/Noahregular.woff2") format("woff2"),
-    url("./assets/fonts/Noahregular.woff") format("woff"),
-    url("./assets/fonts/Noahregular.ttf") format("truetype");
+    url("../../assets/fonts/Noahregular.woff2") format("woff2"),
+    url("../../assets/fonts/Noahregular.woff") format("woff"),
+    url("../../assets/fonts/Noahregular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -20,9 +20,9 @@ html {
 @font-face {
   font-family: "Noah";
   src: local("Noah Bold"), local("Noah-Bold"),
-    url("./assets/fonts/Noahbold.woff2") format("woff2"),
-    url("./assets/fonts/Noahbold.woff") format("woff"),
-    url("./assets/fonts/Noahbold.ttf") format("truetype");
+    url("../../assets/fonts/Noahbold.woff2") format("woff2"),
+    url("../../assets/fonts/Noahbold.woff") format("woff"),
+    url("../../assets/fonts/Noahbold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }

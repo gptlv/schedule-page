@@ -1,5 +1,5 @@
 import { Collapse, Space, Button } from "antd";
-const style: React.CSSProperties = { width: "117px", padding: "4px 8px" };
+const style: React.CSSProperties = { width: "125px", padding: "4px 8px" };
 
 type Props = { programs: Record<string, Record<string, string>> };
 

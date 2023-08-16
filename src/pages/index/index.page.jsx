@@ -1,17 +1,10 @@
-import App from "./App";
-import { useState, useEffect } from "react";
-import "./index.css";
-
-const defaultState = {
-  loading: false,
+import OuterAccordion from "../../components/OuterAccordion";
+export const documentProps = {
+  title: "Учебное расписание",
+  description: "Учебное расписание",
 };
+export { Page };
 
 const Page = () => {
-  const [loading, setLoading] = useState(defaultState.loading);
-  useEffect(() => {
-    setLoading(false), console.log("App loaded");
-  }, []);
-  return loading ? <div>Fallback content</div> : <App />;
+  return <OuterAccordion />;
 };
-
-export default { Page };

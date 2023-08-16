@@ -12,7 +12,7 @@ const Footer = () => {
         borderTop: `1px solid ${BORDER_COLOR}`,
       }}
     >
-      2023
+      <span>2023</span>
     </AntdFooter>
   );
 };

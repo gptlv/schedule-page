@@ -31,6 +31,7 @@ html {
 .inner-container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 /* Styling for the logo container */
@@ -43,7 +44,7 @@ html {
 
 /* Styling for the logo image */
 .logo-image {
-  width: 40px;
+  width: 140px;
   height: 40px;
   line-height: 38px;
   margin-inline-end: 6px;
@@ -66,7 +67,7 @@ html {
   display: inline-block;
   padding: 0px;
   margin: 0px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 32px;
   margin-inline-end: 12px;

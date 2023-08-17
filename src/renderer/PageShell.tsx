@@ -12,6 +12,16 @@ import { PRIMARY_COLOR } from "./../shared/colors";
 export { PageShell }
 
 const PageShell = ({ children, pageContext }: { children: React.ReactNode; pageContext: PageContext }) => {
+
+const [mounted, setMounted] = React.useState(false);
+React.useEffect(() => setMounted(true), []);
+
+if (typeof window !== 'undefined') {
+    window.onload = () => {
+        document.getElementById('react-root')!.remove();
+    };
+}
+
   return (
     <React.StrictMode>
         <PageContextProvider pageContext={pageContext}>
@@ -23,6 +33,9 @@ const PageShell = ({ children, pageContext }: { children: React.ReactNode; pageC
         },
       }}
     >
+      <div style={{ opacity: !mounted ? 0 : 1 }}>
+
+            
       <Layout
         style={{
           minHeight: "100vh",
@@ -32,6 +45,7 @@ const PageShell = ({ children, pageContext }: { children: React.ReactNode; pageC
         <Main>{children}</Main>
         {/* <Footer /> */}
       </Layout>
+      </div>
     </ConfigProvider>
     </PageContextProvider>
     </React.StrictMode>

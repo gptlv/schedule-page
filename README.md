@@ -1,7 +1,5 @@
 # Moscow Institute of Psychoanalysis Schedule Page
 
-![Moscow Institute of Psychoanalysis](src/assets/banner.png)
-
 <img src="src/assets/banner.png" alt="Moscow Institute of Psychoanalysis" style="height: 145px; width:500px;"/>
 
 ## Overview
